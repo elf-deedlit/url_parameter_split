@@ -1,0 +1,2 @@
+# url_parameter_split
+URLの引数を特定の設定だけにして返す
