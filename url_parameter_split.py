@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # vim: set ts=4 sw=4 et smartindent ignorecase fileencoding=utf8:
 import argparse
 from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
